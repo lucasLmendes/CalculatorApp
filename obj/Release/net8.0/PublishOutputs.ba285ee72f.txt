@@ -1,0 +1,5 @@
+C:\Users\LLM\DevFolder\Projects\CalculatorAPp\CalculatorApp\bin\Release\net8.0\publish\CalculatorApp.exe
+C:\Users\LLM\DevFolder\Projects\CalculatorAPp\CalculatorApp\bin\Release\net8.0\publish\CalculatorApp.dll
+C:\Users\LLM\DevFolder\Projects\CalculatorAPp\CalculatorApp\bin\Release\net8.0\publish\CalculatorApp.deps.json
+C:\Users\LLM\DevFolder\Projects\CalculatorAPp\CalculatorApp\bin\Release\net8.0\publish\CalculatorApp.runtimeconfig.json
+C:\Users\LLM\DevFolder\Projects\CalculatorAPp\CalculatorApp\bin\Release\net8.0\publish\CalculatorApp.pdb

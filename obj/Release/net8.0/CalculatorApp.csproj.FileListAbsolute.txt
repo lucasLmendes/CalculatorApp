@@ -1,0 +1,15 @@
+C:\Users\LLM\DevFolder\Projects\CalculatorAPp\CalculatorApp\bin\Release\net8.0\CalculatorApp.exe
+C:\Users\LLM\DevFolder\Projects\CalculatorAPp\CalculatorApp\bin\Release\net8.0\CalculatorApp.deps.json
+C:\Users\LLM\DevFolder\Projects\CalculatorAPp\CalculatorApp\bin\Release\net8.0\CalculatorApp.runtimeconfig.json
+C:\Users\LLM\DevFolder\Projects\CalculatorAPp\CalculatorApp\bin\Release\net8.0\CalculatorApp.dll
+C:\Users\LLM\DevFolder\Projects\CalculatorAPp\CalculatorApp\bin\Release\net8.0\CalculatorApp.pdb
+C:\Users\LLM\DevFolder\Projects\CalculatorAPp\CalculatorApp\obj\Release\net8.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LLM\DevFolder\Projects\CalculatorAPp\CalculatorApp\obj\Release\net8.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\LLM\DevFolder\Projects\CalculatorAPp\CalculatorApp\obj\Release\net8.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\LLM\DevFolder\Projects\CalculatorAPp\CalculatorApp\obj\Release\net8.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\LLM\DevFolder\Projects\CalculatorAPp\CalculatorApp\obj\Release\net8.0\CalculatorApp.sourcelink.json
+C:\Users\LLM\DevFolder\Projects\CalculatorAPp\CalculatorApp\obj\Release\net8.0\CalculatorApp.dll
+C:\Users\LLM\DevFolder\Projects\CalculatorAPp\CalculatorApp\obj\Release\net8.0\refint\CalculatorApp.dll
+C:\Users\LLM\DevFolder\Projects\CalculatorAPp\CalculatorApp\obj\Release\net8.0\CalculatorApp.pdb
+C:\Users\LLM\DevFolder\Projects\CalculatorAPp\CalculatorApp\obj\Release\net8.0\CalculatorApp.genruntimeconfig.cache
+C:\Users\LLM\DevFolder\Projects\CalculatorAPp\CalculatorApp\obj\Release\net8.0\ref\CalculatorApp.dll
