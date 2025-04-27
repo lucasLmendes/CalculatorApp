@@ -15,6 +15,7 @@ namespace CalculatorApp
             Console.Write("Valor 2: ");
             var b = Convert.ToDouble(Console.ReadLine());
 
+            
             double resultado = Calculator.Calculate(a, b, op);
 
             Console.WriteLine($"Resultado: {resultado}");
