@@ -9,16 +9,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Setup .NET SDK
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: '8.0.x'
+          dotnet-version: '8.0.x'   # ou '7.0.x', conforme seu target
+
       - name: Restore dependencies
         run: dotnet restore
+
       - name: Build
         run: dotnet build --no-restore --configuration Release
+
       - name: Run tests
-        run: |
-          # Se você tiver testes, descomente; senão pule esta etapa
-          # dotnet test --no-build --verbosity normal
-          echo \"Nenhum teste configurado no momento.\"
+        run: dotnet test --no-build --verbosity normal

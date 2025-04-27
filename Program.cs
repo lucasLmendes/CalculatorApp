@@ -15,14 +15,7 @@ namespace CalculatorApp
             Console.Write("Valor 2: ");
             var b = Convert.ToDouble(Console.ReadLine());
 
-            double resultado = op switch
-            {
-                "+" => a + b,
-                "-" => a - b,
-                "*" => a * b,
-                "/" => b != 0 ? a / b : throw new DivideByZeroException(),
-                _ => throw new InvalidOperationException("Operação inválida")
-            };
+            double resultado = Calculator.Calculate(a, b, op);
 
             Console.WriteLine($"Resultado: {resultado}");
         }
